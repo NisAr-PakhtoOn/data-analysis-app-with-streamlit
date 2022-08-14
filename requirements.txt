@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+streamlit_pandas_profiling
+matplotlib
+seaborn
+sweetviz
+sklearn
+
